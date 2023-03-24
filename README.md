@@ -5,4 +5,5 @@ _Кем работаю_ - тестировщик
 
 фото
 
-![image](/Users/kseniafisman/Desktop/IMG_7265.jpeg)
+![image](https://user-images.githubusercontent.com/127032092/227548417-c8b26213-4b72-41d0-ad67-2fbeb10c7cb9.png)
+
